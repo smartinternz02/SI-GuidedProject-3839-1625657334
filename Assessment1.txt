@@ -1,0 +1,24 @@
+Kanuthala Harshith, 19BEC0266, kanuthala.harshith2019@vitstudent.ac.in
+
+Q. List out 20 use cases of the Internet of Things.
+
+1.  Smart Lighting
+2.  Smart Irrigation
+3.  Smart Product Management
+4.  Enterprise Asset Management
+5.  Structural Health Monitoring
+6.  Outdoor Surveillance
+7.  Noise Monitoring
+8.  Waste Management
+9.  Leakage Management
+10. Ultraviolet Radiation Management
+11. Companion Robots
+12. Predictive Maintenance
+13. Electronic Road Toll Collection and Traffic Management
+14. Energy Management
+15. Industrial Process Automation/Optimisation
+16. Water Conservation
+17. Fall Detection
+18. Companion Robots
+19. Medical Fridges
+20. Smart Parking
